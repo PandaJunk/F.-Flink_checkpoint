@@ -1,0 +1,9 @@
+com/example/flink/model/ProductSalesAccumulator.class
+com/example/flink/operator/UserTotalConsumeProcessFunction.class
+com/example/flink/operator/UserBehaviorSeqProcessFunction.class
+com/example/flink/CheckpointExperimentJob.class
+com/example/flink/model/UserBehavior.class
+com/example/flink/CheckpointExperimentJob$ProductSalesProcessWindowFunction.class
+com/example/flink/CheckpointExperimentJob$1.class
+com/example/flink/model/ProductSales.class
+com/example/flink/model/UserTotalConsume.class

@@ -1,0 +1,7 @@
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/model/UserBehavior.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/operator/UserTotalConsumeProcessFunction.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/CheckpointExperimentJob.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/model/UserTotalConsume.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/model/ProductSalesAccumulator.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/model/ProductSales.java
+/Users/zoulongquan/Desktop/*华师课程/大规模数据处理系统/flink-checkpoint-experiment/src/main/java/com/example/flink/operator/UserBehaviorSeqProcessFunction.java
